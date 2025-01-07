@@ -1,3 +1,3 @@
 {
-  "version":"fix comment"
+  "version":"fix comment for tiktok new interface"
 }
