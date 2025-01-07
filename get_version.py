@@ -1,3 +1,3 @@
 {
-  "version":"patch to optimal levels"
+  "version":"fix comment on some devices"
 }
