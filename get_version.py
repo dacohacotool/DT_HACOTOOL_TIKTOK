@@ -1,3 +1,3 @@
 {
-  "version":"Fix get account, boost speed"
+  "version":"patch to optimal levels"
 }
