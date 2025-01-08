@@ -1,3 +1,3 @@
 {
-  "version":"Add More Features"
+  "version":"Fix error no \"status\" and fix \"private account\""
 }
