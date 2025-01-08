@@ -1,3 +1,3 @@
 {
-  "version":"fix comment on some devices"
+  "version":"Add More Features"
 }
