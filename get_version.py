@@ -1,3 +1,6 @@
 {
-  "version":"[Update For Based 1.7] change working structure, Fix Follow, Fix Get Account, Fix Change Account. BUG: Lag UI "
+  "version":"[Update For Based 1.7] Increase operation time on weak machines;
+  fix minor errors;
+  interface optimization;
+"
 }
