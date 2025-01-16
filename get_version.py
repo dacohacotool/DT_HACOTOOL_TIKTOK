@@ -1,3 +1,3 @@
 {
-  "version":"increase tiktok delay"
+  "version":"increase tiktok delay v1"
 }
