@@ -1,3 +1,3 @@
 {
-  "version":"Upgrade opera tiktok lan 1"
+  "version":"Upgraded profanity super filtering processing"
 }
