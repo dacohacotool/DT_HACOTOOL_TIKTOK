@@ -1,3 +1,3 @@
 {
-  "version":"increase tiktok delay v1"
+  "version":"fix golike working account configuration error / fix \"invalid account\" error"
 }
