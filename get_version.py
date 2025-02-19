@@ -1,4 +1,4 @@
 {
   "for_version": 2.4,
-  "version": "#PATH302838:Fix Traodoisub v2; More Info in t.me/haco_official"
+  "version": "#PATH302839:Fix Crash; More Info in t.me/haco_official"
 }
