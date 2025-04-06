@@ -1,4 +1,4 @@
 {
   "for_version": 2.4,
-  "version": "#PATH302843: (Vui lòng update) Fix send comment tiktok; Upgrade API check cmt; More Info in t.me/haco_official "
+  "version": "#PATH302844: Fix lỗi lấy danh sách tài khoản thất bại; More Info in t.me/haco_official "
 }
