@@ -1,4 +1,4 @@
 {
   "for_version": 2.5,
-  "version": "#PATH302849: Fix lỗi check comment; Thêm tính năng tìm kiếm; More Info in t.me/haco_official "
+  "version": "#PATH302850: Thêm tính năng tìm kiếm account, Unfollow tiktok; More Info in t.me/haco_official "
 }
