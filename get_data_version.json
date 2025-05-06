@@ -1,0 +1,33 @@
+{
+
+    "main":{
+        "current_version":"2.6",
+        "support_version":["2.5","2.6","2.7"],
+        "data":{
+            "2.5":{
+            "messenger":"Nâng cấp API"
+            },
+            "2.6":{
+                "messenger":"Nâng cấp API, nâng cấp giao diện"
+            },
+            "2.7":{
+                "messenger":"Nâng cấp API, Tăng tốc độ vô tool"
+            }
+        }
+    },
+    "package":{
+        "current_version":"1",
+        "support_version":["1","2","3"],
+        "data":{
+            "1":{
+            "messenger":"Nâng cấp API"
+            },
+            "2":{
+                "messenger":"Nâng cấp API, nâng cấp giao diện"
+            },
+            "3":{
+                "messenger":"Nâng cấp API, Tăng tốc độ vô tool"
+            }
+        }
+    }
+}
