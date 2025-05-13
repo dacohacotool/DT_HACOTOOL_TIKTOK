@@ -1,8 +1,8 @@
 {
 
     "main":{
-        "current_version":"2.6",
-        "support_version":["2.5","2.6","2.7"],
+        "current_version":"2.7",
+        "support_version":["2.9","2.8","2.7"],
         "data":{
             "2.5":{
             "messenger":"Nâng cấp API"
