@@ -16,14 +16,14 @@
         }
     },
     "package":{
-        "current_version":"1",
-        "support_version":["1","2","3"],
+        "current_version":"2",
+        "support_version":["4","2","3"],
         "data":{
             "1":{
             "messenger":"Nâng cấp API"
             },
             "2":{
-                "messenger":"Nâng cấp API, nâng cấp giao diện"
+                "messenger":"Thêm lọc thiết bị offline, thêm hiển thị ip khi kết nối wireless"
             },
             "3":{
                 "messenger":"Nâng cấp API, Tăng tốc độ vô tool"
