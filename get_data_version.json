@@ -16,8 +16,8 @@
         }
     },
     "package":{
-        "current_version":"4",
-        "support_version":["4","5","6"],
+        "current_version":"5",
+        "support_version":["7","5","6"],
         "data":{
             "1":{
             "messenger":"Nâng cấp API"
@@ -30,6 +30,9 @@
             },
             "4":{
                 "messenger":"Fix lỗi làm jobs like, comment"
+            },
+            "5":{
+                "messenger":"Fix lỗi văng tool khi auto traodoisub, thêm tự cấu hình tài khoản vào traodoisub"
             }
         }
     }
