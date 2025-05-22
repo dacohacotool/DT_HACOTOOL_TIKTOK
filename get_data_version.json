@@ -16,8 +16,8 @@
         }
     },
     "package":{
-        "current_version":"3",
-        "support_version":["4","5","3"],
+        "current_version":"4",
+        "support_version":["4","5","6"],
         "data":{
             "1":{
             "messenger":"Nâng cấp API"
@@ -27,6 +27,9 @@
             },
             "3":{
                 "messenger":"Sửa api tiktok, fix lỗi check link (không báo tào lao nữa). Thêm tính năng check tài khoản private (riêng tư), dính là bỏ  qua.\nSửa giao diện config từ ngang thành dọc"
+            },
+            "4":{
+                "messenger":"Fix lỗi làm jobs like, comment"
             }
         }
     }
