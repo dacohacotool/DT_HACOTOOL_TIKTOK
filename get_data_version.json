@@ -1,8 +1,8 @@
 {
 
     "main":{
-        "current_version":"2.7",
-        "support_version":["2.9","2.8","2.7"],
+        "current_version":"2.8",
+        "support_version":["2.9","2.8","3.0"],
         "data":{
             "2.5":{
             "messenger":"Nâng cấp API"
@@ -12,12 +12,15 @@
             },
             "2.7":{
                 "messenger":"Nâng cấp API, Tăng tốc độ vô tool"
+            },
+            "2.8":{
+                "messenger":"Nâng cấp API, Tăng tốc độ vô tool"
             }
         }
     },
     "package":{
-        "current_version":"5",
-        "support_version":["7","5","6"],
+        "current_version":"6",
+        "support_version":["7","8","6"],
         "data":{
             "1":{
             "messenger":"Nâng cấp API"
@@ -33,6 +36,9 @@
             },
             "5":{
                 "messenger":"Fix lỗi văng tool khi auto traodoisub, thêm tự cấu hình tài khoản vào traodoisub"
+            },
+            "6":{
+                "messenger":"Fix lỗi nhận jobs traodoisub"
             }
         }
     }
