@@ -19,8 +19,8 @@
         }
     },
     "package":{
-        "current_version":"6",
-        "support_version":["7","8","6"],
+        "current_version":"7",
+        "support_version":["9","8","6"],
         "data":{
             "1":{
             "messenger":"Nâng cấp API"
@@ -39,6 +39,9 @@
             },
             "6":{
                 "messenger":"Fix lỗi nhận jobs traodoisub"
+            },
+            "7":{
+                "messenger":"Fix lỗi vô tool"
             }
         }
     }
