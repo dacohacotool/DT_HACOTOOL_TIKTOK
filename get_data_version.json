@@ -25,8 +25,8 @@
         }
     },
     "package":{
-        "current_version":"9",
-        "support_version":["9","11","10"],
+        "current_version":"10",
+        "support_version":["12","11","10"],
         "data":{
             "1":{
             "messenger":"Nâng cấp API"
