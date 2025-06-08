@@ -15,6 +15,9 @@
             },
             "2.8":{
                 "messenger":"Nâng cấp API, Tăng tốc độ vô tool"
+            },
+            "2.9":{
+                "messenger":"Nâng cấp API, Thêm tính năng tự đổi tài khoản, thay đổi giải diện ,..."
             }
         }
     },
@@ -42,6 +45,9 @@
             },
             "7":{
                 "messenger":"Fix lỗi vô tool"
+            },
+            "7":{
+                "messenger":"Update cho phiên bản 2.9"
             }
         }
     }
