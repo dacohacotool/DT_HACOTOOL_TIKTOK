@@ -25,8 +25,8 @@
         }
     },
     "package":{
-        "current_version":"12",
-        "support_version":["12","14","13"],
+        "current_version":"13",
+        "support_version":["15","14","13"],
         "data":{
             "1":{
             "messenger":"Nâng cấp API"
@@ -57,6 +57,9 @@
             },
              "12":{
                 "messenger":"Cập nhập API check link, fix lỗi config, fix lỗi vật"
+            },
+            "13":{
+                "messenger":"Fix lỗi bị giới hạn"
             }
         }
     }
