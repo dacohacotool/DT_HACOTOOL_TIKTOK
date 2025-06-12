@@ -21,6 +21,9 @@
             },
             "3.0":{
                 "messenger":"Thêm tính năng tự update nhanh"
+            },
+            "3.1":{
+                "messenger":"Tối ưu đa luồng, thêm tự login, tự giải captcha, tự cấu hình,..."
             }
         }
     },
