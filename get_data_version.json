@@ -28,8 +28,8 @@
         }
     },
     "package":{
-        "current_version":"14",
-        "support_version":["15","16","13"],
+        "current_version":"15",
+        "support_version":["15","16","17"],
         "data":{
             "1":{
             "messenger":"Nâng cấp API"
@@ -66,6 +66,9 @@
             },
             "14":{
                 "messenger":"Cập nhập api phù hợp cho 3.1"
+            },
+            "15":{
+                "messenger":"Hỗ trợ auto TuongtacCheo (tự cấu hình), nâng cấp AutoLogin, Fix lỗi crash"
             }
         }
     }
