@@ -24,6 +24,9 @@
             },
             "3.1":{
                 "messenger":"Tối ưu đa luồng, thêm tự login, tự giải captcha, tự cấu hình,..."
+            },
+            "3.2":{
+                "messenger":"Nâng cấp api"
             }
         }
     },
