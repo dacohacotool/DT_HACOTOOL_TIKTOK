@@ -72,6 +72,9 @@
             },
             "16":{
                 "messenger":"Nâng cấp api check comnment, nâng cấp trải nghiệm, fix lỗi vặt"
+            },
+            "17":{
+                "messenger":"Fix lỗi cấu hình tiktok golike, tăng tốc độ và chính xác của giải captcha"
             }
         }
     }
