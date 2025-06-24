@@ -1,7 +1,7 @@
 {
 
     "main":{
-        "current_version":"3.2",
+        "current_version":"3.3",
         "support_version":["3.0","3.1","3.2","3.3","3.4","3.5"],
         "data":{
             "2.5":{
@@ -27,12 +27,15 @@
             },
             "3.2":{
                 "messenger":"Nâng cấp api"
+            },
+            "3.3":{
+                "messenger":"Nâng cấp giao diện"
             }
         }
     },
     "package":{
-        "current_version":"18",
-        "support_version":["17","18","19"],
+        "current_version":"19",
+        "support_version":["20","21","19"],
         "data":{
             "1":{
             "messenger":"Nâng cấp API"
@@ -81,6 +84,9 @@
             },
             "18":{
                 "messenger":"Nâng cấp cho bản 3.2"
+            },
+            "19":{
+                "messenger":"Pack cho bản 3.3"
             }
         }
     }
