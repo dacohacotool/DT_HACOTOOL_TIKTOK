@@ -37,7 +37,7 @@
         }
     },
     "package":{
-        "current_version":"19",
+        "current_version":"20",
         "support_version":["20","21","19"],
         "data":{
             "1":{
