@@ -40,8 +40,8 @@
         }
     },
     "package":{
-        "current_version":"21",
-        "support_version":["20","21","22"],
+        "current_version":"22",
+        "support_version":["23","21","22"],
         "data":{
             "1":{
             "messenger":"Nâng cấp API"
@@ -106,4 +106,5 @@
         }
     }
 }
+
 
