@@ -99,7 +99,11 @@
             },
             "21":{
                 "messenger":"Sửa đổi giao diện"
+            },
+            "22":{
+                "messenger":"Fix lỗi nhận coin hustmedia, nâng cấp api tiktok adb, nâng cấp tốc độ thực hiện, tự động đóng popup khi lấy danh sách tài khoản ,... Nâng cấp api tạo comment"
             }
         }
     }
 }
+
