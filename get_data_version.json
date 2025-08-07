@@ -40,8 +40,8 @@
         }
     },
     "package":{
-        "current_version":"22",
-        "support_version":["23","21","22"],
+        "current_version":"23",
+        "support_version":["23","24","22"],
         "data":{
             "1":{
             "messenger":"Nâng cấp API"
@@ -102,9 +102,13 @@
             },
             "22":{
                 "messenger":"Fix lỗi nhận coin hustmedia, nâng cấp api tiktok adb, nâng cấp tốc độ thực hiện, tự động đóng popup khi lấy danh sách tài khoản ,... Nâng cấp api tạo comment"
+            },
+            "22":{
+                "messenger":"Fix lỗi đổi tài khoản tiktok"
             }
         }
     }
 }
+
 
 
